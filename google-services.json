@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1040100927005",
+    "project_id": "signinfirebase-12f1b",
+    "storage_bucket": "signinfirebase-12f1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040100927005:android:ce8de51cfec15e85c5c8f4",
+        "android_client_info": {
+          "package_name": "com.ziaulm.GoogleSignInFirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040100927005-bb9k273p8u4rg68dkvhvkrq9m7devqi4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ziaulm.GoogleSignInFirebase",
+            "certificate_hash": "b447a48913ae749520854bd5c79194f5a964f3ad"
+          }
+        },
+        {
+          "client_id": "1040100927005-vn1hhqjg3jjngvgsljm74ov8v4cq0utd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ziaulm.GoogleSignInFirebase",
+            "certificate_hash": "edb3be5462adccc44e7055ca024373d544291325"
+          }
+        },
+        {
+          "client_id": "1040100927005-o5qjb9n4f81i213td4bai81kjlav2iur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYgQ91SvkjVd-U0Y1NhGIYUhd1wY16fzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040100927005-o5qjb9n4f81i213td4bai81kjlav2iur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
